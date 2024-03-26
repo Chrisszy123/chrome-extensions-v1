@@ -13,6 +13,6 @@ app/node_modules
 /dll
 
 .idea
-
+dist
 /extensions
 .env

@@ -10,7 +10,6 @@ app/node_modules
 
 # App packaged
 /release
-dist
 /dll
 
 .idea
